@@ -420,7 +420,7 @@ The project can be deployed using **Docker containers**.
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshoots/login.png)
 
 Users can securely log in using their registered email and password.  
 JWT authentication is used to authorize requests to protected APIs.
@@ -429,7 +429,7 @@ JWT authentication is used to authorize requests to protected APIs.
 
 ### User Registration
 
-![Register Page](screenshots/register.png)
+![Register Page](screenshoots/register.png)
 
 New users can create an account by providing:
 
@@ -443,7 +443,7 @@ Passwords are securely hashed using **BCrypt** before being stored in the databa
 
 ### Task Dashboard
 
-![Task Dashboard_USER](screenshots/dashboard_user.png)
+![Task Dashboard_USER](screenshoots/dashboard_user.png)
 
 ![Task Dashboard_ADMIN](screenshoots/dashboard_admin.png)
 
@@ -465,7 +465,7 @@ Features include:
 
 ### API Documentation (Swagger / OpenAPI)
 
-![Swagger API Docs](screenshots/swagger.png)
+![Swagger API Docs](screenshoots/swagger.png)
 
 The backend APIs are documented using **Swagger / OpenAPI** for easy testing and development.
 
