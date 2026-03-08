@@ -445,7 +445,7 @@ Passwords are securely hashed using **BCrypt** before being stored in the databa
 
 ![Task Dashboard_USER](screenshots/dashboard_user.png)
 
-![Task Dashboard_ADMIN](screenshots/dashboard_admin.png)
+![Task Dashboard_ADMIN](screenshoots/dashboard_admin.png)
 
 After authentication, users are redirected to the **Task Dashboard**, where they can:
 
